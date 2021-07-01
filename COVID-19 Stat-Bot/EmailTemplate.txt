@@ -1,0 +1,9 @@
+Dear Sir/Madam,
+
+The COVID-19 report for {0} country is :
+
+Total Cases		Total Deaths		Total Recovered		     New Cases
+ {1}			 {2}			 {3}			      {4}
+
+With Regards,
+COVID-19 Stat-Bot	
