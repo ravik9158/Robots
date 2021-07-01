@@ -1,0 +1,12 @@
+Dear Reader, 
+
+	Unusual activity has been detected in the system at {0}.
+
+Error Message : 
+
+{1}
+
+See the attached screenshot for error.
+
+Regards,
+Email Automation Bot 
